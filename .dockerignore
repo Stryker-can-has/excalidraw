@@ -14,6 +14,6 @@
 
 # keep (sub)sub directories at the end to exclude from explicit included
 # e.g. ./packages/excalidraw/{dist,node_modules}
-**/build
+# **/build
 **/dist
 **/node_modules
